@@ -1,4 +1,3 @@
-layout_spectrum: 0.468151040840894
 typography_spectrum: 0.6992284273728728
 color:
   brandStrength: 0.042858335422351956
@@ -11,4 +10,10 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.468151040840894
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa165d5e-97ca-4664-8eff-d81c1d383e10.jpg
 name: IOD group
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/4de3aaf9-f868-4ba3-975e-1ee9008e53ba.jpg
+title: Illuminating Optical Design
