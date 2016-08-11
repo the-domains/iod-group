@@ -6,9 +6,9 @@ color:
   saturation: 0.593607556540519
   rhythmicContrast: 0.7588718594051898
   brandColors:
-    - '#000000'
-    - '#335566'
-    - '#332B33'
-    - '#668099'
-    - '#CCD5CC'
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: IOD group
