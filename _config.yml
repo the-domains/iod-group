@@ -11,11 +11,12 @@ color:
     - '#295C6F'
     - '#FDFDFD'
 layout_spectrum: 0.2531244100537151
+author:
+  email: Sales@iodgroup.com
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa165d5e-97ca-4664-8eff-d81c1d383e10.jpg
 name: IOD group
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/4de3aaf9-f868-4ba3-975e-1ee9008e53ba.jpg
 title: Illuminating Optical Design
-author:
-  email: Sales@iodgroup.com
+description: Design beyond
