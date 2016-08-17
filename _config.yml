@@ -1,16 +1,16 @@
-typography_spectrum: 0.6992284273728728
+typography_spectrum: 0.544462269404903
 color:
-  brandStrength: 0.042858335422351956
-  lightness: 0.7180156956892461
-  saturation: 0.593607556540519
-  rhythmicContrast: 0.7588718594051898
+  brandStrength: 0.5225202492438257
+  lightness: 0.9458314776420593
+  saturation: 0.48206681618466973
+  rhythmicContrast: 0.7238368603866547
   brandColors:
-    - '#17BEBB'
-    - '#2E282A'
-    - '#CD5334'
-    - '#EDB88B'
-    - '#FAD8D6'
-layout_spectrum: 0.468151040840894
+    - '#000000'
+    - '#6D92A4'
+    - '#BACDD4'
+    - '#295C6F'
+    - '#FDFDFD'
+layout_spectrum: 0.2531244100537151
 logo: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa165d5e-97ca-4664-8eff-d81c1d383e10.jpg
 name: IOD group
